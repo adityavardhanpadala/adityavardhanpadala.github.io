@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Aditya</title>
   
-  
+  <subtitle>silverf3lix</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://adityapadala.com/"/>
   <updated>2020-03-31T05:16:12.493Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://adityapadala.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Aditya Vardhan Padala</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/31/hello-world/"/>
-    <id>http://yoursite.com/2020/03/31/hello-world/</id>
+    <link href="http://adityapadala.com/2020/03/31/hello-world/"/>
+    <id>http://adityapadala.com/2020/03/31/hello-world/</id>
     <published>2020-03-31T05:16:12.493Z</published>
     <updated>2020-03-31T05:16:12.493Z</updated>
     
