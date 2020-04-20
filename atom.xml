@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adityapadala.com/"/>
-  <updated>2020-04-20T19:01:25.196Z</updated>
+  <updated>2020-04-20T20:11:38.857Z</updated>
   <id>http://adityapadala.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Working with libFuzzer</title>
+    <link href="http://adityapadala.com/2020/04/21/Working-with-libFuzzer/"/>
+    <id>http://adityapadala.com/2020/04/21/Working-with-libFuzzer/</id>
+    <published>2020-04-20T20:11:38.000Z</published>
+    <updated>2020-04-20T20:11:38.857Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Setting Up NetBSD Kernel Dev Environment</title>
